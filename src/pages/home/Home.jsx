@@ -14,6 +14,6 @@ export default function Home(){
             <Feed/>
             <Rightbar/>
         </div>
-        </>
-    )
+    </>
+    );
 }
